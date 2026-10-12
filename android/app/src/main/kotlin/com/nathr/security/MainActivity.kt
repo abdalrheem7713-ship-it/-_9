@@ -3,7 +3,6 @@ package com.nathr.security
 import android.content.pm.ApplicationInfo
 import android.content.pm.PackageManager
 import android.content.pm.PackageInfo
-import android.content.pm.PackageInfoFlags
 import android.os.Build
 import android.net.Uri
 import android.content.Intent
